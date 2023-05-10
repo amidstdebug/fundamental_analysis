@@ -1,4 +1,4 @@
-# Fundamental Analysis TechniqueS
+# Fundamental Analysis Techniques
 
 Welcome to the Fundamental Analysis Techniques Experimentation and Mini Dashboard Repository!
 
