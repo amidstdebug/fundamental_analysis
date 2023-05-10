@@ -21,7 +21,7 @@ The repository also includes a mini dashboard that displays the results of the f
 
 To use this repository, simply clone the repository and explore the code and documentation. You can modify the code to experiment with different inputs and assumptions, and use the dashboard to visualize the results.
 
-We hope that this repository will be a valuable resource for those interested in learning and experimenting with fundamental analysis techniques. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
+I hope that this repository will be a valuable resource for those interested in learning and experimenting with fundamental analysis techniques. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
