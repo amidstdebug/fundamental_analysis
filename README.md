@@ -14,7 +14,7 @@ In this repository, you will find various implementations of fundamental analysi
 - Dividend discount model (DDM) analysis
 - Economic analysis
 - Industry analysis
-- 
+
 These implementations are designed to be easy to understand and modify, so that you can experiment with different inputs and assumptions to see how they affect the results.
 
 The repository also includes a mini dashboard that displays the results of the fundamental analysis techniques implemented in the code. This dashboard is designed to be visually appealing and user-friendly, so that you can quickly and easily see the results of your analysis.
