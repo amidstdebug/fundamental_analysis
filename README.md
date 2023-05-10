@@ -1,16 +1,4 @@
-# Fundamental Analysis Techniques
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
+# Fundamental Analysis TechniqueS
 
 Welcome to the Fundamental Analysis Techniques Experimentation and Mini Dashboard Repository!
 
@@ -34,3 +22,14 @@ The repository also includes a mini dashboard that displays the results of the f
 To use this repository, simply clone the repository and explore the code and documentation. You can modify the code to experiment with different inputs and assumptions, and use the dashboard to visualize the results.
 
 We hope that this repository will be a valuable resource for those interested in learning and experimenting with fundamental analysis techniques. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
